@@ -5,7 +5,7 @@
  * y el 20 de junio, o "falso" de lo contrario.
  *
  */
-
-int main() {
-  
+#include <stdio.h>
+#include <stdlib.h>
+int main(int argc, char const *argv) {
 }

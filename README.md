@@ -1,6 +1,6 @@
 # Recuperatorio
 - Fecha: 25/08/2021
-- Nombre y apellido:
+- Nombre y apellido: Joaquin Gil Apesteguia
 
 ## Ejercicio
 Forkear y clonar este repo.
